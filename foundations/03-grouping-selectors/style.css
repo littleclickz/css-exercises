@@ -1,5 +1,7 @@
 .one {
-
+    background-color: black;
+    color: white;
+    font-weight: bold;
 }
 
 .two {
@@ -8,5 +10,5 @@
 
 .one,
 .two {
-    
+
 }
