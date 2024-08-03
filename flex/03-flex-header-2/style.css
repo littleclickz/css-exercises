@@ -18,6 +18,8 @@ body {
 
 .left, .right {
   display: flex;
+  align-items: center;
+  gap: 16px;
 }
 
 .profile-image {
@@ -53,6 +55,6 @@ ul {
   list-style-type: none;
   display: flex;
   margin: 0;
-  padding; 0px;
-  gap: 8px;
+  padding: 0px;
+  gap: 16px;
 }
