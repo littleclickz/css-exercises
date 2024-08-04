@@ -35,6 +35,10 @@ body {
   justify-content: center;
 }
 
+.container{
+  display: flex;
+}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
