@@ -20,6 +20,8 @@ img {
 
 .info {
   display: flex;
+  max-width: 200px;
+  gap: 52px;
 }
 /* do not edit this footer */
 .footer {
