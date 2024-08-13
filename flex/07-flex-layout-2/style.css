@@ -40,7 +40,7 @@ body {
 .content, .card, .sidebar {
   display: flex;
   flex-flow: row-wrap;
-  flex: 1;
+  flex: initial;
 }
 
 a {
