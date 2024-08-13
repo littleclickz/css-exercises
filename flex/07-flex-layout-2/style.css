@@ -42,7 +42,7 @@ body {
 
 .content {
   display: flex;
-  flex-flow: row-wrap;
+  flex-flow: row wrap;
 }
 
 a {
