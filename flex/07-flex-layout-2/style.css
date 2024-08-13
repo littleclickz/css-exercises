@@ -16,6 +16,7 @@ body {
   color: darkmagenta;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .sidebar {
@@ -33,4 +34,5 @@ body {
 .content, .card, .sidebar {
   display: flex;
   flex-flow: row-wrap;
+  flex: 1;
 }
