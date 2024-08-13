@@ -57,3 +57,11 @@ a {
   display: flex;
   flex-flow: nowrap;
 }
+
+li {
+  list-style: none;
+}
+
+a {
+  color: #eee;
+}
