@@ -30,7 +30,7 @@ body {
   border-radius: 4px;
 }
 
-.content, .card {
+.content, .card, .sidebar {
   display: flex;
   flex-flow: row-wrap;
 }
