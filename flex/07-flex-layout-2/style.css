@@ -45,6 +45,8 @@ body {
 .content {
   display: flex;
   flex-flow: row wrap;
+  padding: 48px;
+  gap: 32px;
 }
 
 a {
