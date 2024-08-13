@@ -54,6 +54,12 @@ a {
   color: black;
 }
 
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
 .main-page {
   display: flex;
   flex-flow: nowrap;
