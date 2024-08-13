@@ -56,5 +56,4 @@ a {
 .main-page {
   display: flex;
   flex-flow: nowrap;
-  justify-content: space-between;
 }
